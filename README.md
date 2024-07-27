@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @arindam7757
-- 👀 I’m interested in c++, Python, R, Data Science, Machine Learning, Full Stack Web Dev.
-- 🌱 I’m currently learning Data Scince, Deep Learning
+- 👀 I’m interested in C++, HTML, CSS, SQL, PHP, Graphic Design, React and Full Stack Web Dev.
+- 🌱 I’m currently learning MongoDB, Express and Node JS
 - 💞️ I’m looking to collaborate on a decent MNC
 - 📫 How to reach me
+- Linkedin - https://www.linkedin.com/in/arindam-biswas-657618231/
+- LeetCode - https://leetcode.com/u/arindam7757/
 
 <!---
 arindam7757/arindam7757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
