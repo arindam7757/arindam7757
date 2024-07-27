@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MongoDB, Express and Node JS
 - 💞️ I’m looking to collaborate on a decent MNC
 - 📫 How to reach me
+- Mail - aakashiit7@gmail.com
 - Linkedin - https://www.linkedin.com/in/arindam-biswas-657618231/
 - LeetCode - https://leetcode.com/u/arindam7757/
 
